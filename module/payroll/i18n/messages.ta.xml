@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Employee Vote Information Summary</source>
+                <target>ஊழியர் ஓட்டு தகவல் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Employee Vote Information</source>
+                <target>ஊழியர் ஓட்டு தகவல்</target>
+            </trans-unit>
+            <trans-unit id="3">
+                <source>Vote Code</source>
+                <target>கோட் வாக்களிக்க</target>
+            </trans-unit>
+            <trans-unit id="4">
+                <source>Vote Name</source>
+                <target>பெயர் வாக்களிக்க</target>
+            </trans-unit>
+            <trans-unit id="5">
+                <source>Vote Type</source>
+                <target>வகை வாக்களிக்க</target>
+            </trans-unit>
+            <trans-unit id="6">
+                <source>This field is required</source>
+                <target>இந்த புலம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="7">
+                <source>Employee Payroll Information Summary</source>
+                <target>பணியாளர் சம்பளப்பட்டியல் தகவல் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="8">
+                <source>Employee Payroll Information</source>
+                <target>பணியாளர் சம்பளப்பட்டியல் தகவல்</target>
+            </trans-unit>
+            <trans-unit id="9">
+                <source>Grade(Segment)</source>
+                <target>கிரேடு (பிரிவு)</target>
+            </trans-unit>
+            <trans-unit id="10">
+                <source>Grade Slot</source>
+                <target>கிரேடு துளை</target>
+            </trans-unit>
+            <trans-unit id="11">
+                <source>Pay salaries in cash</source>
+                <target>ரொக்கமாக சம்பளம் கொடுக்க</target>
+            </trans-unit>
+            <trans-unit id="12">
+                <source>Next Increment on</source>
+                <target>அடுத்த உயர்ச்சி</target>
+            </trans-unit>
+            <trans-unit id="13">
+                <source>EPF Number</source>
+                <target>பி எண்</target>
+            </trans-unit>
+            <trans-unit id="14">
+                <source>ETF Number</source>
+                <target>ப.ப.வ. எண்</target>
+            </trans-unit>
+            <trans-unit id="15">
+                <source>Payroll Type</source>
+                <target>சம்பள வகை</target>
+            </trans-unit>
+            <trans-unit id="16">
+                <source>Salaray Vote</source>
+                <target>ஓட்டு Salaray</target>
+            </trans-unit>
+            <trans-unit id="17">
+                <source>EPF Vote</source>
+                <target>பி ஓட்டு</target>
+            </trans-unit>
+            <trans-unit id="18">
+                <source>ETF Vote</source>
+                <target>ப.ப.வ. ஓட்டு</target>
+            </trans-unit>
+            <trans-unit id="19">
+                <source>Assign to default transactions</source>
+                <target>முன்னிருப்பு பரிமாற்றங்கள் ஒதுக்க</target>
+            </trans-unit>
+            <trans-unit id="20">
+                <source>District</source>
+                <target>மாவட்டம்</target>
+            </trans-unit>
+            <trans-unit id="21">
+                <source>Configuration</source>
+                <target>கட்டமைப்பு</target>
+            </trans-unit>
+            <trans-unit id="22">
+                <source>Employee Salary Increment Summary</source>
+                <target>பணியாளர் சம்பளம் உயர்ச்சி சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="23">
+                <source>Employee Number</source>
+                <target>பணியாளர் எண்ணிக்கை</target>
+            </trans-unit>
+            <trans-unit id="24">
+                <source>Previous Salary</source>
+                <target>முந்தைய சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="25">
+                <source>New Salary</source>
+                <target>புதிய சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="26">
+                <source>Increment</source>
+                <target>பெருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="27">
+                <source>Salary Incremet Process</source>
+                <target>சம்பளம் Incremet செயல்முறை</target>
+            </trans-unit>
+            <trans-unit id="28">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="29">
+                <source>Confirm</source>
+                <target>உறுதி</target>
+            </trans-unit>
+            <trans-unit id="30">
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit id="31">
+                <source>Bank Details Summary</source>
+                <target>வங்கி விவரங்கள் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="32">
+                <source>Bank Code</source>
+                <target>வங்கி கோட்</target>
+            </trans-unit>
+            <trans-unit id="33">
+                <source>Bank Name</source>
+                <target>வங்கி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="34">
+                <source>Bank Details</source>
+                <target>வங்கி விவரங்கள்</target>
+            </trans-unit>
+            <trans-unit id="35">
+                <source>Bank Address</source>
+                <target>வங்கி முகவரி</target>
+            </trans-unit>
+            <trans-unit id="36">
+                <source>Parent Bank</source>
+                <target>பெற்றோர் வங்கி</target>
+            </trans-unit>
+            <trans-unit id="37">
+                <source>Main Bank</source>
+                <target>முக்கிய வங்கி</target>
+            </trans-unit>
+            <trans-unit id="38">
+                <source>Branch Details Summary</source>
+                <target>கிளை விவரம் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="39">
+                <source>Branch Code</source>
+                <target>கிளை கோட்</target>
+            </trans-unit>
+            <trans-unit id="40">
+                <source>Branch Name</source>
+                <target>கிளை பெயர்</target>
+            </trans-unit>
+            <trans-unit id="41">
+                <source>Branch Details</source>
+                <target>கிளை விவரம்</target>
+            </trans-unit>
+            <trans-unit id="42">
+                <source>Branch Address</source>
+                <target>கிளை முகவரி</target>
+            </trans-unit>
+            <trans-unit id="43">
+                <source>Slip Transfer</source>
+                <target>மாற்றம் நழுவ</target>
+            </trans-unit>
+            <trans-unit id="44">
+                <source>Employee Bank Details</source>
+                <target>பணியாளர் வங்கி விவரம்</target>
+            </trans-unit>
+            <trans-unit id="45">
+                <source>Account type</source>
+                <target>கணக்கு வகை</target>
+            </trans-unit>
+            <trans-unit id="46">
+                <source>Start Date</source>
+                <target>தேதி தொடங்கும்</target>
+            </trans-unit>
+            <trans-unit id="47">
+                <source>End Date</source>
+                <target>இறுதி தேதி</target>
+            </trans-unit>
+            <trans-unit id="48">
+                <source>Account No</source>
+                <target>கணக்கு இல்லை</target>
+            </trans-unit>
+            <trans-unit id="49">
+                <source>Amount</source>
+                <target>தொகை</target>
+            </trans-unit>
+            <trans-unit id="50">
+                <source>Active</source>
+                <target>செயலில்</target>
+            </trans-unit>
+            <trans-unit id="51">
+                <source>Account Order</source>
+                <target>கணக்கு ஆணை</target>
+            </trans-unit>
+            <trans-unit id="52">
+                <source>Account Number</source>
+                <target>கணக்கு எண்</target>
+            </trans-unit>
+            <trans-unit id="53">
+                <source>Order</source>
+                <target>ஒழுங்கு</target>
+            </trans-unit>
+            <trans-unit id="54">
+                <source>Account Type</source>
+                <target>கணக்கு வகை</target>
+            </trans-unit>
+            <trans-unit id="55">
+                <source>Bank Diskette Summary</source>
+                <target>வங்கி வட்டு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="56">
+                <source>Bank Diskette Name</source>
+                <target>வங்கி வட்டு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="57">
+                <source>Bank Diskette</source>
+                <target>வங்கி வட்டு</target>
+            </trans-unit>
+            <trans-unit id="58">
+                <source>Data Source</source>
+                <target>தரவு மூலம்</target>
+            </trans-unit>
+            <trans-unit id="59">
+                <source>Header</source>
+                <target>தலைப்பு</target>
+            </trans-unit>
+            <trans-unit id="60">
+                <source>Detail</source>
+                <target>விரிவாக</target>
+            </trans-unit>
+            <trans-unit id="61">
+                <source>Footer</source>
+                <target>அடிப்பாகம்</target>
+            </trans-unit>
+            <trans-unit id="62">
+                <source>Bank Diskette Process Summary</source>
+                <target>வங்கி வட்டு செயல்முறை சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="63">
+                <source>Payment Date</source>
+                <target>கட்டணம் தேதி</target>
+            </trans-unit>
+            <trans-unit id="64">
+                <source>Bank</source>
+                <target>வங்கி</target>
+            </trans-unit>
+            <trans-unit id="65">
+                <source>Create Diskette</source>
+                <target>வட்டு உருவாக்கி</target>
+            </trans-unit>
+            <trans-unit id="66">
+                <source>Bank Diskette Process</source>
+                <target>வங்கி வட்டு செயல்முறை</target>
+            </trans-unit>
+            <trans-unit id="67">
+                <source>Work Station:</source>
+                <target>நிலையம் வேலை:</target>
+            </trans-unit>
+            <trans-unit id="68">
+                <source>Employee Transaction Detail (By Transaction)</source>
+                <target>பணியாளர் பரிவர்த்தனை விரிவாக (பரிமாற்ற)</target>
+            </trans-unit>
+            <trans-unit id="69">
+                <source>Transaction Type</source>
+                <target>பரிவர்த்தனை அமைப்பு</target>
+            </trans-unit>
+            <trans-unit id="70">
+                <source>Transaction Detail</source>
+                <target>பரிவர்த்தனை விரிவாக</target>
+            </trans-unit>
+            <trans-unit id="71">
+                <source>View/Edit employees</source>
+                <target>பணியாளர்கள் பார்க்க / திருத்து</target>
+            </trans-unit>
+            <trans-unit id="72">
+                <source>Assign New employees</source>
+                <target>புதிய பணியாளர்களை நியமிக்க</target>
+            </trans-unit>
+            <trans-unit id="73">
+                <source>Search For Period</source>
+                <target>காலம் தேடல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>From Date</source>
+                <target>தேதி வரம்பு</target>
+            </trans-unit>
+            <trans-unit id="74">
+                <source>To Date</source>
+                <target>இன்றுவரை</target>
+            </trans-unit>
+            <trans-unit id="75">
+                <source>Amount</source>
+                <target>தொகை</target>
+            </trans-unit>
+            <trans-unit id="76">
+                <source>Enabled</source>
+                <target>செயல்படுத்தப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="77">
+                <source>Apply To All</source>
+                <target>அனைத்து பொருந்தும்</target>
+            </trans-unit>
+            <trans-unit id="78">
+                <source>Employee Name </source>
+                <target>பணியாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="79">
+                <source>Account Number</source>
+                <target>கணக்கு எண்</target>
+            </trans-unit>
+            <trans-unit id="80">
+                <source>Emp%</source>
+                <target>EMP%</target>
+            </trans-unit>
+            <trans-unit id="81">
+                <source>Eyr%</source>
+                <target>Eyr%</target>
+            </trans-unit>
+            <trans-unit id="82">
+                <source>This field is required.</source>
+                <target>இந்த புலம் தேவைப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit id="83">
+                <source>Please enter a number</source>
+                <target>ஒரு எண்ணை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="84">
+                <source>Please select the Transaction type and Transaction detail.</source>
+                <target>பரிமாற்ற வகை மற்றும் பரிவர்த்தனை விவரம் தேர்ந்தெடுக்கவும்.</target>
+            </trans-unit>
+            <trans-unit id="85">
+                <source>can not perform increment, please edit the Basic salaray</source>
+                <target>சம்பள உயர்வு செய்ய முடியாது, அடிப்படை salaray திருத்த தயவு செய்து</target>
+            </trans-unit>
+            <trans-unit id="86">
+                <source>Payment date</source>
+                <target>கட்டணம் தேதி</target>
+            </trans-unit>
+            <trans-unit id="87">
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="88">
+                <source>Please enter search value</source>
+                <target>தேடல் மதிப்பை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="89">
+                <source>Year</source>
+                <target>ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="90">
+                <source>Period</source>
+                <target>காலம்</target>
+            </trans-unit>
+            <trans-unit id="91">
+                <source>Lock / Unlock</source>
+                <target>திற / பூட்ட</target>
+            </trans-unit>
+            <trans-unit id="92">
+                <source>Processed</source>
+                <target>பதப்படுத்தப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="93">
+                <source>Not Processed</source>
+                <target>பதப்படுத்தப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="94">
+                <source>Locked</source>
+                <target>பூட்டப்பட்டுள்ளது</target>
+            </trans-unit>
+            <trans-unit id="95">
+                <source>Create</source>
+                <target>உருவாக்கு</target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Reset</source>
+                <target>மீட்டமை</target>
+            </trans-unit>
+            <trans-unit id="99">
+                <source>Successfully Updated</source>
+                <target>வெற்றிகரமாக புதுப்பிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="100">
+                <source>Period</source>
+                <target>காலம்</target>
+            </trans-unit>
+            <trans-unit id="101">
+                <source>Please select Year</source>
+                <target>ஆண்டின் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="102">
+                <source>Please select the Employee Name</source>
+                <target>பணியாளர் பெயர் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="103">
+                <source>Please snter digit</source>
+                <target>Snter இலக்க தயவு செய்து</target>
+            </trans-unit>
+            <trans-unit id="104">
+                <source>Please snter Number</source>
+                <target>Snter எண் தயவு செய்து</target>
+            </trans-unit>
+            <trans-unit id="105">
+                <source>Please specify valid date</source>
+                <target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="106">
+                <source>Special characters are not allowed</source>
+                <target>சிறப்பு எழுத்துகள் அனுமதி இல்லை</target>
+            </trans-unit>
+            <trans-unit id="107">
+                <source>Maximum 200 characters</source>
+                <target>அதிகபட்ச 200 எழுத்துகள்</target>
+            </trans-unit>
+            <trans-unit id="108">
+                <source>Account Start Date should be less than End Date </source>
+                <target>கணக்கு தொடக்க தேதி முடிவு தேதி விட குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="109">
+                <source>Employee Salary Increment Cancel Summary</source>
+                <target>பணியாளர் சம்பளம் உயர்ச்சி சுருக்கம் ரத்து</target>
+            </trans-unit>
+            <trans-unit id="110">
+                <source>Previous Salary</source>
+                <target>முந்தைய சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="111">
+                <source>New Salary</source>
+                <target>புதிய சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="112">
+                <source>Increment</source>
+                <target>பெருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="113">
+                <source>Transaction Detail Information</source>
+                <target>பரிவர்த்தனை விரிவாக தகவல்</target>
+            </trans-unit>
+            <trans-unit id="114">
+                <source>Code</source>
+                <target>குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="115">
+                <source>Name</source>
+                <target>பெயர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Narration</source>
+                <target>கதை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Order on Pay Slip </source>
+                <target>பே சீட்டில் ஆணை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Enable Proration</source>
+                <target>Proration செயல்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Set as Default Transaction</source>
+                <target>முன்னிருப்பு பரிமாற்ற அமை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Amount</source>
+                <target>தொகை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contribution</source>
+                <target>பங்களிப்பு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Base Txn</source>
+                <target>அடிப்படை Txn</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Specify the Amount, Payment Type and the Billing Rate for the transaction</source>
+                <target>நடவடிக்கைக்கும் தொகை, பணம் செலுத்துதல் வகை மற்றும் பில்லிங் விகிதம் குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Add amount to</source>
+                <target>தொகையை சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Net Pay</source>
+                <target>நிகர சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Gross Pay</source>
+                <target>ஒட்டு மொத்த ஊதியம் / சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Specify the transaction base to be considered for the contribution (check all that apply)</source>
+                <target>பரிமாற்ற தளம் (பொருந்தும் அனைத்தையும் சரிபார்த்து) பங்களிப்பை கருத்தில் வேண்டும் குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Employer %</source>
+                <target>முதலாளி%</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Enable Base Transaction</source>
+                <target>அடிப்படை பரிமாற்ற செயல்படுத்த</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Specify the transaction base to be considered for the contribution (check all that apply)</source>
+                <target>பரிமாற்ற தளம் (பொருந்தும் அனைத்தையும் சரிபார்த்து) பங்களிப்பை கருத்தில் வேண்டும் குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Transaction</source>
+                <target>நடவடிக்கை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Previous</source>
+                <target>முந்தைய</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Base</source>
+                <target>அடித்தளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Validate</source>
+                <target>உறுதி செய்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Reset</source>
+                <target>மீட்டமை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum 100 characters</source>
+                <target>அதிகபட்ச 100 எழுத்துகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>numeric only</source>
+                <target>ஒரே எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Transaction Detail Information Summary</source>
+                <target>பரிவர்த்தனை விரிவாக தகவல் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Transaction Type Information (Detail View)</source>
+                <target>பரிவர்த்தனை அமைப்பு தகவல் (விவரக்காட்சி)</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fixed</source>
+                <target>சரி செய்யப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Varible</source>
+                <target>Varible</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contibution</source>
+                <target>Contibution</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Basic Salary</source>
+                <target>அடிப்படை சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Deduction</source>
+                <target>கழித்தல்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Earning</source>
+                <target>சம்பாதித்து</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Transaction Type Information Summary</source>
+                <target>பரிவர்த்தனை அமைப்பு தகவல் சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Code</source>
+                <target>குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter search value</source>
+                <target>தேடல் மதிப்பை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select the search mode</source>
+                <target>தேடல் முறையில் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Bank Diskette :</source>
+                <target>வங்கி வட்டு:</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter field length</source>
+                <target>புலத்தில் நீளம் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid field length</source>
+                <target>செல்லுபடியாகாத புலம் நீளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter field length</source>
+                <target>புலத்தில் நீளம் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Field Length</source>
+                <target>தவறான புல நீளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please enter field length</source>
+                <target>புலத்தில் நீளம் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Text/DB Column</source>
+                <target>உரை / டி.பி. நெடுவரிசை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Text</source>
+                <target>உரை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Data Type</source>
+                <target>தரவு இனம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>DB Column</source>
+                <target>டி.பி. நெடுவரிசை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Numeric</source>
+                <target>எண்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Length</source>
+                <target>நீளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Data Alignment</source>
+                <target>தரவு ஒழுங்கமைப்பு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Space</source>
+                <target>இடம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Fill Value</source>
+                <target>மதிப்பு பூர்த்தி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Zero</source>
+                <target>சுழி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Right</source>
+                <target>சரியான</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Left</source>
+                <target>இடது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>OK</source>
+                <target>சரி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please specify a valid date</source>
+                <target>செல்லுபடியாகும் தேதி குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Start Date or End Date</source>
+                <target>தவறான தேதி அல்லது முடிவு தேதி தொடக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Branch Details</source>
+                <target>கிளை விவரம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Slip Transfer</source>
+                <target>மாற்றம் நழுவ</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Salary Vote</source>
+                <target>சம்பளம் ஓட்டு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Salary Increment Cancel</source>
+                <target>சம்பளம் உயர்ச்சி ரத்து</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Salary Increment Process</source>
+                <target>சம்பளம் உயர்ச்சி செயல்முறை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Increment</source>
+                <target>பெருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Increment Cancel</source>
+                <target>ரத்து உயர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Increment Cancel Comment</source>
+                <target>கருத்து ரத்து உயர்வு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Can not perform increment, Please edit the Basic Salaray</source>
+                <target>சம்பள உயர்வு செய்ய முடியாது, அடிப்படை Salaray மாற்றம் செய்யுங்கள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select Effective Date.</source>
+                <target>சிறந்த தேதி தேர்வு செய்யவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an employee.</source>
+                <target>ஒரு பணியாளர் தேர்வு செய்யவும்.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>View Processed Employees</source>
+                <target>பதப்படுத்தப்பட்ட ஊழியர் காண்க</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pay Schdule</source>
+                <target>Schdule செலுத்த</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Earnings</source>
+                <target>சம்பாத்தியம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Deductions</source>
+                <target>விலக்குகள்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Contributions</source>
+                <target>பங்களிப்புகளை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Gross Salary</source>
+                <target>மொத்த சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Cash Paid Amount</source>
+                <target>பண கட்டண தொகை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Pay in Bank</source>
+                <target>வங்கி பணம் செலுத்தி</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Net Salary</source>
+                <target>நிகர சம்பளம்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Period</source>
+                <target>பெரிஒது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Pending</source>
+                <target>பெறோல் இன்போ பெண்டிங்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Complete</source>
+                <target>பெறோல் இன்போ கம்ப்லேடே</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Transaction Name</source>
+                <target>பரிவர்த்தனை பெயர்</target>
+            </trans-unit>  
+            	    <trans-unit id="1">
+                <source>Period</source>
+                <target>காலம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Pending</source>
+                <target>சம்பளப்பட்டியல் தகவல் நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Complete</source>
+                <target>முழுமையான</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transaction Type Information Summary</source>
+                <target>பரிமாற்ற அமைப்பு தகவல் சுருக்கம் </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transaction name</source>
+                <target>பரிமாற்ற பெயர்</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Transaction Type Information (Detail View)</source>
+                <target>பரிமாற்ற அமைப்பு தகவல் (விவரக்காட்சி)</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Transaction Detail Information Summary</source>
+                <target>பரிமாற்ற விரிவாக தகவல் சுருக்கம்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Transaction Name</source>
+                <target>பரிமாற்ற பெயர்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Detail Information</source>
+                <target>பரிமாற்ற விரிவாக தகவல்</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Transaction type</source>
+                <target>பரிமாற்ற வகை </target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Narration</source>
+                <target>கதை</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Order on pay slip</source>
+                <target>ஆணை</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Enable Proration</source>
+                <target>செயல்படுத்தல்</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Enable </source>
+                <target>இயக்கு</target>
+            </trans-unit>         
+            <trans-unit id="1">
+                <source>Set as default transaction</source>
+                <target>முன்னிருப்பு பரிவர்த்தனை அமை</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Specify the amount payment type and the billing rate for the transaction</source>
+                <target>பரிவர்த்தனை தொகை செலுத்தும் வகை மற்றும் பில்லிங் விகிதம்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Add amount to</source>
+                <target>வேண்டும் அளவு சேர்க்கவும்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Net pay</source>
+                <target>நிகர</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Gross pay</source>
+                <target>மொத்த</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Contribution</source>
+                <target>பங்களிப்பு </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Specify the transaction base to be considered for the contribution (check all that apply)</source>
+                <target>பங்களிப்பை கருத்தில் </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employer %</source>
+                <target>முதலாளி%</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employee %</source>
+                <target>பணியாளர்%</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Enable base transaction</source>
+                <target>செயல்படுத்தல் அடிப்படை பரிமாற்றத்தை</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Base Txn</source>
+                <target>அடிப்படை</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Transaction</source>
+                <target>பரிமாற்ற</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Previous</source>
+                <target>முந்தைய</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Base</source>
+                <target>முந்தைய</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Validate</source>
+                <target>அடிப்படை</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Processed</source>
+                <target>பதப்படுத்தப்பட்ட</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Not Processed</source>
+                <target>பதப்படுத்தப்பட்ட</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Locked</source>
+                <target>අගුළු දැමූ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employee Transaction Detail (By Transaction)</source>
+                <target>பூட்டப்பட்டது</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Type</source>
+                <target>பரிமாற்ற வகை</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Detail</source>
+                <target>பரிமாற்ற விரிவாக</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Add Employees</source>
+                <target>ஊழியர்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>View/Edit employees</source>
+                <target>காட்சி / திருத்து ஊழியர்கள்</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Assign New employees</source>
+                <target>புதிய ஊழியர்கள்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Search For Period</source>
+                <target>பொறுத்தவரை</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Emp%</source>
+                <target>றுத்த</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Eyr%</source>
+                <target>றுத்த</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Enabled</source>
+                <target>தொகை</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Amount(%)</source>
+                <target>தொகை(%)</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Apply To All</source>
+                <target>அனைத்து</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>From date</source>
+                <target> தேதி வரம்பு </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>To date</source>
+                <target>உயர்ச்சி முன்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Salary Before Increment</source>
+                <target>உயர்ச்சி முன்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Salary After Increment</source>
+                <target> உயர்ச்சி</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Salary Increment Process</source>
+                <target>சம்பளம் உயர்ச்சி செயல்முறை</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Next Increment Date</source>
+                <target>அடுத்து உயர்ச்சி தேதி</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Salary Increment Cancel</source>
+                <target>சம்பளம் உயர்ச்சி</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Increment Cancel</source>
+                <target>உயர்ச்சி</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Increment Cancel Comment</source>
+                <target>உயர்ச்சி  கருத்து ரத்து</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Employee Salary Increment Cancel Summary</source>
+                <target>பணியாளர் சம்பளம் உயர்ச்சி</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Employee Payroll Process</source>
+                <target>பணியாளர் சம்பளப்பட்டியல் செயல்முறை</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Current Process Period</source>
+                <target>தற்போதைய செயல்முறை காலம்</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Start Date</source>
+                <target>தொடக்க தேதி</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>End Date</source>
+                <target>முடிவு தேதி </target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Process</source>
+                <target>செயல்முறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Processed Employees</source>
+                <target>ஊழியர் பதப்படுத்தப்பட்ட</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>View Processed Details</source>
+                <target>விவரம் பதப்படுத்தப்பட்ட</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>View Processed Employees</source>
+                <target>ஊழியர் பதப்படுத்தப்பட்ட</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Employee Id</source>
+                <target>பணியாளர் </target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Employee Name</source>
+                <target>பணியாளர் பெயர்</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Date &amp; Time</source>
+                <target>தேதி &amp; நேரம்</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>நிலைமை </target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Pay Slip</source>
+                <target>பே ஸ்லிப் </target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Total no of Processed Employee/s : </source>
+                <target>மொத்தம் இல்லை:  </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Attendance No</source>
+                <target>பங்கேற்கும் இல்லை </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation</source>
+                <target>பதவி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pay schdule</source>
+                <target>சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Basic Salary</source>
+                <target>அடிப்படை சம்பளம் </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Earnings</source>
+                <target>வருவாய்கள் </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Deductions</source>
+                <target>விலக்குகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Contributions</source>
+                <target>பங்களிப்புகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Gross Salary</source>
+                <target>மொத்த சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Cash Paid Amount</source>
+                <target>தொகை செலுத்தப்பட</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pay in Bank</source>
+                <target>வங்கி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Net Salary</source>
+                <target>நிகர சம்பளம்</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Loan :</source>
+                <target>கடன்: </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source> AppLication Id : </source>
+                <target>பயன்பாட்டு ஐடி:</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Employee Contribution</source>
+                <target>பணியாளர் பங்களிப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employer Contribution</source>
+                <target>வேலை பங்களிப்பு </target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Select All</source>
+                <target>அனைத்து </target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Search</source>
+                <target>தேடல்</target>
+            </trans-unit>  
+         </body>
+        </file>
+    </xliff> 

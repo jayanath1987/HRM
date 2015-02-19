@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+    <header/>
+    <body>
+     <trans-unit id="1">
+        <source>Employee Vote Information Summary</source>
+        <target>Employee Vote Information Summary</target>
+     </trans-unit>
+     <trans-unit id="1">
+        <source>Payroll Info Pending</source>
+        <target>Payroll Info Pending</target>
+     </trans-unit>
+     <trans-unit id="1">
+        <source>Payroll Info Complete</source>
+        <target>Payroll Info Complete</target>
+     </trans-unit>
+    <trans-unit id="1">
+        <source>Employee Transaction Detail (By Transaction)</source>
+        <target>Add Transactions to Employee</target>
+    </trans-unit> 
+     <trans-unit id="1">
+        <source>Employee Number</source>
+        <target>Employee ID</target>
+     </trans-unit>    
+    </body>
+  </file>
+</xliff> 

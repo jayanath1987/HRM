@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Edit</source>
+                <target>திருத்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Reset</source>
+                <target>மீட்டமை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Save</source>
+                <target>சேமிக்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Hide</source>
+                <target>மறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Search By</source>
+                <target>மூலம் தேட</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>--Select--</source>
+                <target>- தேர்ந்தெடு -</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Search For:</source>
+                <target>தேட:</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Search</source>
+                <target>සොයන්න</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fields marked with an asterisk * are required</source>
+                <target>ஒரு நட்சத்திர குறியீடு உள்ளவை தேவை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select a field to search</source>
+                <target>தேட ஒரு துறையில் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Do you really want to delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select at least one check box to delete</source>
+                <target>நீக்க குறைந்தது ஒரு சோதனை பெட்டியை தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Added</source>
+                <target>வெற்றிகரமாக சேர்க்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Updated</source>
+                <target>வெற்றிகரமாக புதுப்பிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Successfully Deleted</source>
+                <target>வெற்றிகரமாக நீக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select at least one record to delete</source>
+                <target>நீக்க குறைந்தது ஒரு பதிவு தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>A problem occurred when deleting the selected items.</source>
+                <target>தேர்ந்தெடுக்கப்பட்ட உருப்படிகளை நீக்கும் போது ஒரு சிக்கல் ஏற்பட்டது.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Information</source>
+                <target>பணியாளர் தகவல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee ID</source>
+                <target>பணியாளர் ID</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>First Name</source>
+                <target>முதல் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Last Name</source>
+                <target>கடைசி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation</source>
+                <target>பதவி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Service</source>
+                <target>சேவை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Name</source>
+                <target>பணியாளர் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add Employee</source>
+                <target>பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Photo</source>
+                <target>Photo</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee ID  already exists.</source>
+                <target>பணியாளர் ID ஏற்கனவே உள்ளது.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This field is required.</source>
+                <target>இந்த புலம் தேவைப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This field is required</source>
+                <target>இந்த புலம் தேவைப்படுகிறது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This field contains invalid characters.</source>
+                <target>இந்த புலம் செல்லாத எழுத்துகள் உள்ளன.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Record locked.</source>
+                <target>பூட்டிய பதிவு.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid date.</source>
+                <target>தேதி செல்லாத.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum length exceeded</source>
+                <target>அதிகபட்ச நீளம் தாண்டியது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid phone number</source>
+                <target>தவறான தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid e-Mail</source>
+                <target>செல்லாத மின்னஞ்சல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid URL</source>
+                <target>செல்லாத URL</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Invalid date period.</source>
+                <target>செல்லாத தேதி காலம்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Personal Details</source>
+                <target>தனிப்பட்ட விவரங்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Contact Details</source>
+                <target>விபரங்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Emergency Contacts</source>
+                <target>அவசர தொடர்புகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Dependents</source>
+                <target>சார்ந்தவைகளை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Work Experience</source>
+                <target>அனுபவம் வேலை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Skills</source>
+                <target>திறன்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Language Skills</source>
+                <target>மொழி திறன்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>License</source>
+                <target>உரிமம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment Letter No</source>
+                <target>நியமனம் கடிதம் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Personal File No</source>
+                <target>தனிப்பட்ட கோப்பு இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Title</source>
+                <target>தலைப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Gender</source>
+                <target>பாலினம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Initials</source>
+                <target>தலைப்பெழுத்துகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Names Of Initials</source>
+                <target>முதலெழுத்துக்கள் பெயர்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date Of Birth</source>
+                <target>பிறந்த நாள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Place Of Birth</source>
+                <target>பிறந்த இடம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Civil Status</source>
+                <target>உள்நாட்டு நிலைமை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Married Date</source>
+                <target>திருமணமானவர் தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>NIC No</source>
+                <target>தேசிய அடையாள அட்டை இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>NIC Issue Date</source>
+                <target>தேசிய அடையாள அட்டை வழங்குதல் தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Passport No</source>
+                <target>பாஸ்போர்ட் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Ethnicity</source>
+                <target>இனம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Religion</source>
+                <target>மதம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Preferred Language</source>
+                <target>விருப்பமான மொழி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Citizenship</source>
+                <target>குடியுரிமை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Country</source>
+                <target>நாடு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Attendance No</source>
+                <target>வருகை இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary No</source>
+                <target>சம்பளம் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Running File No</source>
+                <target>கோப்பு எண் இயங்கும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Bar Code No</source>
+                <target>பார் கோடு எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Official</source>
+                <target>அதிகாரி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Residence</source>
+                <target>வதிவிடம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Permanent</source>
+                <target>நிரந்தரமான</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Other</source>
+                <target>வேறு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Building No.</source>
+                <target>கட்டிடம் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Floor No.</source>
+                <target>மாடி இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Block No.</source>
+                <target>தொகுதி எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Building Name</source>
+                <target>கட்டிடம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Street Name</source>
+                <target>தெரு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Village Name</source>
+                <target>கிராமத்தில் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>City Name</source>
+                <target>நகரத்தின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Phone (Intercom)</source>
+                <target>தொலைபேசி (இண்டர்காம்)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Phone (VIP)</source>
+                <target>தொலைபேசி (விஐபி)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Phone (Direct Line)</source>
+                <target>தொலைபேசி (நேரடி வரி)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Phone Extension</source>
+                <target>தொலைபேசி நீட்டிப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fax No.</source>
+                <target>தொலைநகல் எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Email</source>
+                <target>மின்னஞ்சல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>URL</source>
+                <target>URL</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Division Name</source>
+                <target>பிரிவு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Police Station</source>
+                <target>பொலிஸ் நிலையம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>District</source>
+                <target>மாவட்டம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Postal Code</source>
+                <target>அஞ்சல் குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Phone No (Intercom)</source>
+                <target>தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Mobile No</source>
+                <target>மொபைல் எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Name</source>
+                <target>பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Relationship</source>
+                <target>உறவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Work Place</source>
+                <target>இடம் வேலை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Name of the School</source>
+                <target>பள்ளியின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Address</source>
+                <target>முகவரி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Comments</source>
+                <target>கருத்துரைகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Contact Person</source>
+                <target>நபர் தொடர்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Home Phone No</source>
+                <target>வீட்டு தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Office Phone No</source>
+                <target>அலுவலக தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Company Name</source>
+                <target>நிறுவனத்தின் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Job Title</source>
+                <target>வேலை தலைப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Start Date</source>
+                <target>தேதி தொடங்கும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>End Date</source>
+                <target>இறுதி தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Internal</source>
+                <target>உள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Education</source>
+                <target>கல்வி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute Name</source>
+                <target>நிறுவனம் பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Stream</source>
+                <target>ஸ்ட்ரீம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Index</source>
+                <target>குறியீடு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Result Confirmed</source>
+                <target>முடிவு கன்பார்ம்டு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Skill</source>
+                <target>திறமை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Years of Experience</source>
+                <target>அனுபவ ஆண்டுகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter a number between 1 and 99</source>
+                <target>1 மற்றும் 99 இடையேயான ஒரு எண்ணை உள்ளிடவும்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Writing</source>
+                <target>எழுத்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Speaking</source>
+                <target>பேசும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Reading</source>
+                <target>படித்தல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Poor</source>
+                <target>ஏழை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Basic</source>
+                <target>அடிப்படையான</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Good</source>
+                <target>நல்ல</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Mother Tongue</source>
+                <target>அம்மா மொழி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Language</source>
+                <target>மொழி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fluency</source>
+                <target>Fluency</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Competency</source>
+                <target>தகுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>License Number</source>
+                <target>உரிமம் எண்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>License Type</source>
+                <target>உரிமம் வகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Issue Date</source>
+                <target>வெளியீட்டு தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Expiry Date</source>
+                <target>காலாவதியாகும் தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment date to public service</source>
+                <target>பொது சேவை நியமனம் தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date assumed duty(public)</source>
+                <target>தேதி (பொது) கடமை ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Current Service</source>
+                <target>தற்போதைய சேவை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment date to current service</source>
+                <target>தற்போதைய சேவை நியமனம் தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date assumed duty (current)</source>
+                <target>தேதி (தற்போதைய) கடமை ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Method of recruitment to current service</source>
+                <target>தற்போதைய சேவை ஆட்சேர்ப்பு முறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>If other please specify</source>
+                <target>மற்ற குறிப்பிட நீங்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Medium</source>
+                <target>ஊடகம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employment Type</source>
+                <target>வேலை வகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>HR active employee</source>
+                <target>அலுவலக செயலில் பணியாளர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Attendance active employee</source>
+                <target>வருகை செயலில் பணியாளர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Contributing to W &amp; OP Number</source>
+                <target>W &amp; ஓபி எண் பங்களிப்பு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>If yes W &amp; OP Number</source>
+                <target>ஆம் W &amp; ஓபி எண் என்றால்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Confirmed</source>
+                <target>உறுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Confirmed Date</source>
+                <target>உறுதி தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Suspended date</source>
+                <target>நிறுத்தி தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please specify the reason</source>
+                <target>காரணம் குறிப்பிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probation period extension information</source>
+                <target>நன்னடத்தை காலம் நீட்டிப்பு தகவல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>If extended? (If relevant)</source>
+                <target>நீட்டிக்கப்பட்ட என்றால்? (பொருத்தமான என்றால்)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>From date</source>
+                <target>தேதியிலிருந்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>To date</source>
+                <target>இன்றுவரை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary</source>
+                <target>சம்பளம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Service</source>
+                <target>சேவை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation</source>
+                <target>பதவி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Class</source>
+                <target>வர்க்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Grade(Segment)</source>
+                <target>கிரேடு (பிரிவு)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary Scale</source>
+                <target>சம்பளம் அளவீடு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Basic Salary(Annual)</source>
+                <target>அடிப்படை சம்பளம் (ஆண்டு)</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Increment Date</source>
+                <target>தேதி உயர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date Assumed Duty should be greater than or equal to the Appointment Date to Public Service</source>
+                <target>தேதி கருதப்படுகிறது வரி பொது சேவை விட அதிகமாக அல்லது நியமனம் தேதி சமமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment Date to Current Service should be greater than or equal to the Date Assumed Duty</source>
+                <target>தற்போதைய சேவை செய்ய நியமனம் தேதி விட அல்லது தேதி சமமாக இருக்க வேண்டும் கடமை ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment Date to Current Cervice should be greater than or equal to the Date Assumed Duty (public)</source>
+                <target>தற்போதைய Cervice வேண்டும் நியமனம் தேதி விட அல்லது தேதி சமமாக இருக்க வேண்டும் வரி (பொது) ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date Assumed Duty (current) should be greater than to the Appointment Date to Current Service</source>
+                <target>தேதி கருதப்படுகிறது வரி (தற்போதைய) தற்போதைய சேவை செய்ய நியமனம் தேதி விட அதிகமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Confirmed Date should be greater than or equal to the Date Assumed Duty(current).</source>
+                <target>உறுதி தேதி விட அல்லது தேதி (தற்போதைய) வரி கருதப்படுகிறது சமமாக இருக்க வேண்டும்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probation From Date  should be greater than or equal to the Date Assumed Duty(current)</source>
+                <target>தேதி வரம்பு நன்னடத்தை விட அல்லது தேதி சமமாக இருக்க வேண்டும் வரி (தற்போதைய) ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Probation To Date should be greater than  to the Probation From Date.</source>
+                <target>தேதி செய்ய நன்னடத்தை தேதியிலிருந்து நன்னடத்தை விட அதிகமாக இருக்க வேண்டும்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Increment Date should be greater than to the Date Assumed Duty(current)</source>
+                <target>உயர்ச்சி தேதி தேதி விட அதிகமாக இருக்க வேண்டும் வரி (தற்போதைய) ஏற்றார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>The period the probation was extended</source>
+                <target>காலம் தகுதிகாண் நீட்டிக்கப்பட்டது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Job</source>
+                <target>வேலை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Report To</source>
+                <target>அறிக்கையை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Supervisor / Subordinate already added to the employee with the same method</source>
+                <target>மேற்பார்வையாளர் / கீழ் ஏற்கனவே அதே முறையை ஊழியர் சேர்க்கப்பட்டுள்ளது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Supervisor / Subordinate</source>
+                <target>மேற்பார்வையாளர் / கீழ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Reporting Method</source>
+                <target>முறை புகார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Supervisors</source>
+                <target>மேற்பார்வையாளர்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Subordinates</source>
+                <target>துணை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>i.e. Current Employee's Supervisors</source>
+                <target>அதாவது தற்போதைய ஊழியர் மேற்பார்வையாளர்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>i.e. Current Employee's Subordinates</source>
+                <target>அதாவது தற்போதைய ஊழியர் கீழ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>ID</source>
+                <target>ஐடி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Reporting Method</source>
+                <target>முறை புகார்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Direct</source>
+                <target>நேரடி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Indirect</source>
+                <target>மறைமுக</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Report-To</source>
+                <target>அறிக்கை-செய்ய</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>The same employee cannot be assigned as the supervisor and the subordinate</source>
+                <target>அதே பணியாளர் மேற்பார்வையாளர் என ஒதுக்கப்பட்டது மற்றும் துணை முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select the Supervisor / Subordinate</source>
+                <target>மேற்பார்வையாளர் / கீழ் தேர்ந்தெடுக்கவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>The same employee cannot be assigned as the supervisor and the subordinate</source>
+                <target>அதே பணியாளர் மேற்பார்வையாளர் என ஒதுக்கப்பட்டது மற்றும் துணை முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Photograph</source>
+                <target>புகைப்படம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Select a Photo</source>
+                <target>ஒரு புகைப்பட தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Click on the photo to see the full size image</source>
+                <target>முழு அளவு படத்தை பார்க்க புகைப்படத்தை கிளிக் செய்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Photograph Size 1 MB</source>
+                <target>புகைப்படம் அளவு 1 MB</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>3.5 cm * 1.5 cm</source>
+                <target>3.5 செ * 1.5 செ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Attachments</source>
+                <target>இணைப்புகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Attachment Type</source>
+                <target>இணைப்பு வகை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Show File</source>
+                <target>கோப்பு காட்டு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Assigned Attachments</source>
+                <target>ஒதுக்கப்பட்ட இணைப்புகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>File Name</source>
+                <target>கோப்பு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>1M Max. Any larger attachments will be ignored.</source>
+                <target>1m மேக்ஸ். எந்த பெரிய இணைப்புகளை நிராகரிக்கப்படும்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Path</source>
+                <target>வழி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Size</source>
+                <target>அளவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select a file.</source>
+                <target>ஒரு கோப்பை தேர்ந்தெடுங்கள்.</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Grade</source>
+                <target>கிரேடு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Details</source>
+                <target>தேர்வு விவரம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Subject/Grade/Marks</source>
+                <target>தேர்வு பொருள் / கிரேடு / மார்க்ஸ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Status</source>
+                <target>தேர்வில் தகுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Subject/Grade/Marks</source>
+                <target>தேர்வு பொருள் / கிரேடு / மார்க்ஸ்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pass</source>
+                <target>அனுப்ப</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Fail</source>
+                <target>தோல்வி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pending Result</source>
+                <target>முடிவு நிலுவையில்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EB Exam</source>
+                <target>EB தேர்வு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Details</source>
+                <target>தேர்வு விவரம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Marks/Results</source>
+                <target>பரீட்சை மார்க்ஸ் / முடிவுகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Exam Status</source>
+                <target>தேர்வில் தகுதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Date</source>
+                <target>தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Service Record</source>
+                <target>சேவை பதிவு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Ministry/Department/Institute/Sub Office</source>
+                <target>அமைச்சகம் / துறை / நிறுவனம் / உப அலுவலகம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Photograph size should be less than to 1 MB</source>
+                <target>புகைப்படம் அளவு 1 MB க்கு குறைவாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Salary Number can not be duplicated</source>
+                <target>சம்பளம் எண் நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pension Number can not be duplicated</source>
+                <target>ஓய்வூதிய எண் நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Appointment Letter Number can not be duplicated</source>
+                <target>நியமனம் கடிதம் எண் நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Attendance Number can not be duplicated</source>
+                <target>வருகை எண் நகல் முடியாது</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter Confirmation Date</source>
+                <target>உறுதிப்படுத்தல் தேதி உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter Probation Extend From Date</source>
+                <target>தேதி வரம்பு நீட்டித்தல் நன்னடத்தை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter Probation Extend To date</source>
+                <target>தேதி விரிவாக்கம் நன்னடத்தை உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please enter W &amp; OP Number</source>
+                <target>W &amp; ஓபி எண் உள்ளிடவும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>There is a no photograph to delete</source>
+                <target>நீக்க ஒரு புகைப்படம் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Ministry/Department</source>
+                <target>அமைச்சகம் / துறை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Institute/Sub Office</source>
+                <target>நிறுவனம் / உப அலுவலகம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Address Line 1</source>
+                <target>விலாசம் வரி 1</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Address Line 2</source>
+                <target>விலாசம் வரி 2</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Delivery Post Office</source>
+                <target>டெலிவரி தபால் அலுவலகம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Address Postal Code</source>
+                <target>அஞ்சல் குறியீடு முகவரி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Address Country</source>
+                <target>முகவரி வாழும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Divisional Secretariat</source>
+                <target>பிரதேச செயலகம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Nearest Police Station</source>
+                <target>அருகில் உள்ள பொலிஸ் நிலையம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Maximum File Size is 1 MB</source>
+                <target>அதிகபட்ச கோப்பு அளவு 1 MB தான்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Add New Employee</source>
+                <target>புதிய பணியாளர் சேர்க்க</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Search</source>
+                <target>பணியாளர் தேடுதல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EB Requirements</source>
+                <target>EB தேவைகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EB Exams</source>
+                <target>EB தேர்வுகள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EB Exam Name</source>
+                <target>EB தேர்வு பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Due Date</source>
+                <target>தேதி</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Completed Date</source>
+                <target>நிறைவு நாள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>அந்தஸ்து</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Remarks</source>
+                <target>கருத்துக்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pension No</source>
+                <target>ஓய்வூதிய இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Month</source>
+                <target>மாதம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Year</source>
+                <target>ஆண்டு</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Name</source>
+                <target>பயிற்சி பெயர்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Training Summary</source>
+                <target>பயிற்சி சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>For Whom</source>
+                <target>யாருக்காக</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective From Date should be less than to Effective To Date</source>
+                <target>தேதி வரம்பு பயனுள்ள குறைவாக விட தேதி திறமையான இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective To Date should be greater than to Effective From Date</source>
+                <target>தேதி திறமையான தேதியிலிருந்து சிறந்த விட அதிகமாக இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Are you sure you want to delete the photograph?</source>
+                <target>நீங்கள் புகைப்படத்தை நீக்க வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>There is a no photograph to delete</source>
+                <target>நீக்க ஒரு புகைப்படம் இல்லை</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Please select a photograph</source>
+                <target>ஒரு புகைப்படத்தை தேர்ந்தெடுங்கள்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Disciplinary Summary</source>
+                <target>ஒழுங்கு சுருக்கம்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective From</source>
+                <target>வரம்பு பயனுள்ள</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Effective To</source>
+                <target>திறமையான</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Action</source>
+                <target>செயல்</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Work Station</source>
+                <target>நிலையம் வேலை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Acting Work Station</source>
+                <target>வேலை நிலையம் நடிப்பு</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Payroll active employee</source>
+                <target>சம்பள செயலில் பணியாளர்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Level</source>
+                <target>நிலை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Acting Designation</source>
+                <target>பதவி நடிப்பு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Grade Slot</source>
+                <target>கிரேடு துளை</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Maximum File Size is 2 MB</source>
+                <target>அதிகபட்ச கோப்பு அளவு 2 MB ஆகும்</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Not allowed to delete currently logged employee's data .</source>
+                <target>தற்போது நிறுவனங்களுக்கு ஊழியர் தரவு நீக்க அனுமதி இல்லை.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You can not add yourself as a supervisor/subordinates to you</source>
+                <target>நீங்கள் ஒரு மேற்பார்வையாளர் / கீழ் உங்களை சேர்க்க முடியாது</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Please select an employee</source>
+                <target>ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid fax number</source>
+                <target>செல்லாத தொலைநகல் எண்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Phone Extension</source>
+                <target>தவறான தொலைபேசி நீட்டிப்பு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid Mobile No.</source>
+                <target>செல்லுபடியாகாத மொபைல் எண்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Submit</source>
+                <target>Submit '</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your NIC No Like :</source>
+                <target>உங்களது தேசிய அடையாள அட்டை போல் இல்லை:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid NIC Number</source>
+                <target>செல்லாத தேசிய அடையாள அட்டை எண்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Workstations</source>
+                <target>நடிப்பு பணி</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Work Station</source>
+                <target>வேலை நிலையம் நடிப்பு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remove</source>
+                <target>நீக்கு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Designation</source>
+                <target>பதவி நடிப்பு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Workstations</source>
+                <target>பணிச்சூழல்களில்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Submit</source>
+                <target>Submit</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Province</source>
+                <target>மாகாணம்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>District</source>
+                <target>மாவட்டம்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Division</source>
+                <target>பிரிவு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Zone</source>
+                <target>மண்டலம்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wasam</source>
+                <target>Wasam</target>
+            </trans-unit>
+            <trans-unit>
+                <source>View</source>
+                <target>காண்க</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add</source>
+                <target>சேர்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Error Form</source>
+                <target>பிழை படிவம்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Province is required.</source>
+                <target>மாகாணத்தில் தேவைப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>District is required.</source>
+                <target>மாவட்ட தேவைப்படுகிறது.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>record is not found</source>
+                <target>பதிவு காணவில்லை</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Wait..</source>
+                <target>காத்திருக்க ..</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you really want to delete?</source>
+                <target>உண்மையில் நீங்கள் நீக்க விரும்புகிறீர்களா?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters</source>
+                <target>இந்த துறையில் தவறான எழுத்துகள் உள்ளன</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters.</source>
+                <target>இந்த புலம் செல்லாத எழுத்துகள் உள்ளன.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters</source>
+                <target>இந்த துறையில் தவறான எழுத்துகள் உள்ளன</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters</source>
+                <target>இந்த துறையில் தவறான எழுத்துகள் உள்ளன</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum length should be 100 characters</source>
+                <target>அதிகபட்ச நீளம் 100 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum length should be 10 characters</source>
+                <target>அதிகபட்ச நீளம் 10 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid phone number</source>
+                <target>தவறான தொலைபேசி எண்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum length should be 4 characters</source>
+                <target>அதிகபட்ச நீளம் 4 எழுத்துகள் இருக்க வேண்டும்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid fax number</source>
+                <target>செல்லாத தொலைநகல் எண்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid e-Mail</source>
+                <target>செல்லாத மின்னஞ்சல்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid URL</source>
+                <target>செல்லாத URL</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters.</source>
+                <target>இந்த புலம் செல்லாத எழுத்துகள் உள்ளன.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select at least one employee</source>
+                <target>குறைந்தது ஒரு பணியாளர் தேர்வு செய்யவும்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Direct Deposit</source>
+                <target>நேரடி வைப்பு</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Tax Exemptions</source>
+                <target>வரி விலக்குகள்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Custom</source>
+                <target>வழக்கம்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Retirement Date</source>
+                <target>ஓய்வு நாள்</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Level</source>
+                <target>நிலை</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Resign Date</source>
+                <target>தேதி ராஜினாமா</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Grade Slot</source>
+                <target>கிரேடு துளை</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Work Station</source>
+                <target>வேலை நிலையம் நடிப்பு</target>
+            </trans-unit>     
+            <trans-unit>
+                <source>Appointment Date</source>
+                <target>நியமனம் தேதி</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Assumed Date</source>
+                <target>ஏற்றார் தேதி</target>
+            </trans-unit> 
+            <trans-unit>
+                <source>Payroll active employee</source>
+                <target>சம்பள செயலில் பணியாளர்</target>
+            </trans-unit> 
+        </body>        
+    </file>
+</xliff>

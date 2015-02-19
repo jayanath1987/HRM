@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+      <!-- Common -->
+            <trans-unit>
+                <source>Edit</source>
+                <target>සංස්කරණය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reset</source>
+                <target>යළි පිහිටුවන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Save</source>
+                <target>සුරකින්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Hide</source>
+                <target>සඟවනවා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search By</source>
+                <target>සොයා බැලීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>--Select--</source>
+                <target>--තෝරාගන්න--</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search For:</source>
+                <target>සොයන්න උදෙසා:</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Search</source>
+                <target>සොයන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fields marked with an asterisk * are required</source>
+                <target>*විශේෂ ලකුණු කල අවශ්‍යවෙ කරනවා්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a field to search</source>
+                <target>සොයන්න ආකාරය දෙන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Do you really want to delete?</source>
+                <target>මකා දැමිමට වුවමනාද?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select at least one check box to delete</source>
+                <target>මකා දැමිමට කිසිවක් තොරා නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Successfully Added</source>
+                <target>සාර්ථක ලෙස එකතු කලා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Successfully Updated</source>
+                <target>සාර්ථක ලෙස යාවත්කාලීන කලා.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Successfully Deleted</source>
+                <target>සාර්ථක ලෙස විනාශ කලා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select at least one record to delete</source>
+                <target>විනාශ කරනවා එකක් තෝරනවා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>A problem occured when deleting the selected items.</source>
+                <target>සම්බන්ධකමක් තියෙනවා</target>
+            </trans-unit>
+      <!-- Common EIM -->
+            <trans-unit>
+                <source>Employee Information</source>
+                <target>සේවක තොරතුරු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee ID</source>
+                <target>සේවක සුචිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>First Name</source>
+                <target>පළමු නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Last Name</source>
+                <target>අන්තිම නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Designation</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>සේවාව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Division</source>
+                <target>සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee Name</source>
+                <target>සේවක නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add Employee</source>
+                <target>රක්ෂාව එක් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photo</source>
+                <target>ඡායාරූපය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee Id  already exists.</source>
+                <target>සේවක සුචිය තියෙනවා.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required.</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>This field contains invalid characters.</source>
+                <target>අකුරු වලංගු නැති .</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Record Locked.</source>
+                <target>අන් සතුය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid date.</source>
+                <target>දිනය වලංගු නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum length exceeded</source>
+                <target>අකුරු උපරිම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid phone number</source>
+                <target>වලංගු නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid E-Mail</source>
+                <target>වලංගු නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid URL</source>
+                <target>වලංගු නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid date period.</source>
+                <target>වලංගු නැත.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal Details</source>
+                <target>පෞද්ගලික විස්තර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contact Details</source>
+                <target>සබඳතා විස්තර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Emergency Contacts</source>
+                <target>හදිසි අවස්ථා සබඳතා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Dependents</source>
+                <target>යැපෙන්නන්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Work experience</source>
+                <target>පළපුරුද්ද</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Skills</source>
+                <target>කුසලතා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Language Skills</source>
+                <target>භාෂා ප්‍රවීනත්වය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>License</source>
+                <target>බලපත්‍රය</target>
+            </trans-unit>
+      <!-- Personal Details -->
+            <trans-unit>
+                <source>Appointment Letter No</source>
+                <target>පත්වීමේ ලිපි අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Personal File No</source>
+                <target>පුද්ගලික ලිපි ගොනු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Title</source>
+                <target>පදවි නාමය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Gender</source>
+                <target>ස්ත්‍රී පුරුෂ භාවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Initials</source>
+                <target>මුලකුරු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Names Of Initials</source>
+                <target>සම්පුර්ණ නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date Of Birth</source>
+                <target>උපන් දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Place Of Birth</source>
+                <target>උපන් ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Civil Status</source>
+                <target>සිවිල්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Married Date</source>
+                <target>විවාහ දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>NIC No</source>
+                <target>ජාතික හැදුනුම් පත් අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>NIC Issue Date</source>
+                <target>ජාතික හැදුනුම් පත් නිකුත් කල දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Passport No</source>
+                <target>විදේශ ගමන් බලපත්‍රය අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ethnicity</source>
+                <target>ජනවර්ගත්වය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Religion</source>
+                <target>ආගම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Preferred Language</source>
+                <target>භාෂාව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Citizenship</source>
+                <target>පුරවැසිභාවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Country</source>
+                <target>රට</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attendance No</source>
+                <target>පැමිණීම් අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Salary No</source>
+                <target>වැටුප් අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Running File No</source>
+                <target>ධාවන අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Bar Code No</source>
+                <target>තීරු සංකේතය අංකය</target>
+            </trans-unit>
+           <!-- Contact Details -->
+            <trans-unit>
+                <source>Official</source>
+                <target>රාජකාරි</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Residence</source>
+                <target>නේවාසික</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Permanent</source>
+                <target>ස්ථීර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Other</source>
+                <target>වෙනත්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Building No</source>
+                <target>ගොඩනැගිල්ල අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Floor No</source>
+                <target>මහල අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Block No</source>
+                <target>කොටස අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Building Name</source>
+                <target>ගොඩනැගිල්ල</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Street Name</source>
+                <target>වීදිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Village Name</source>
+                <target>ගම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>City Name</source>
+                <target>නගරය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone No (Intercom)</source>
+                <target>දුරකථනය(අන්තර්)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone No (VIP)</source>
+                <target>දුරකථනය(වී.අයි.පී)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone No (Direct Line)</source>
+                <target>දුරකථනය(ඍජු)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone Extension</source>
+                <target>දුරකථනය(දිගුව)</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fax No</source>
+                <target>ෆැක්ස්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Email</source>
+                <target>විද්‍යුත් තැපෑල</target>
+            </trans-unit>
+            <trans-unit>
+                <source>URL</source>
+                <target>යු.ආර්.එල්</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Division Name</source>
+                <target>සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Police Station</source>
+                <target>පොලිස් ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>District</source>
+                <target>දිස්ත්‍රික්කය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Postal Code</source>
+                <target>තැපැල් කේතය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Phone No</source>
+                <target>දූරකථනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mobile No</source>
+                <target>ජංගම දූරකථනය</target>
+            </trans-unit>
+      <!-- Dependent Details -->
+            <trans-unit>
+                <source>Name</source>
+                <target>නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Relationship</source>
+                <target>නෑකම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Work Place</source>
+                <target>සේවාස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Name of the School</source>
+                <target>පාසල</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address</source>
+                <target>ලිපිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Comments</source>
+                <target>සටහන්</target>
+            </trans-unit>
+      <!-- Emergency Details -->
+            <trans-unit>
+                <source>Contact Person</source>
+                <target>සම්බන්ධ පුද්ගලයාගේ නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Home Phone No</source>
+                <target>ගෘහ දූරකථනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Office Phone No</source>
+                <target>කාර්යාල දූරකථනය</target>
+            </trans-unit>
+      <!-- Work Experience -->
+            <trans-unit>
+                <source>Company Name</source>
+                <target>සමාගම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Job Title</source>
+                <target>පදවි නාමය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Start Date</source>
+                <target>ආරම්භක කාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>End Date</source>
+                <target>අවසාන කාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Internal</source>
+                <target>අන්තර</target>
+            </trans-unit>
+      <!-- Education -->
+            <trans-unit>
+                <source>Education</source>
+                <target>අධ්‍යාපනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Institute Name</source>
+                <target>ආයතනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Stream</source>
+                <target>මාධ්‍යය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Index</source>
+                <target>සුචිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Result Confirmed</source>
+                <target>ස්ථීර කළ ප්‍රතිඑල වශයෙන් </target>
+            </trans-unit>
+      <!-- Skill -->
+            <trans-unit>
+                <source>Skill</source>
+                <target>කුසලතාව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Years of Experience</source>
+                <target>පළපුරුද්ද වර්ෂ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please enter a number between 1 and 99.</source>
+                <target>ඇතුල් කරන්න සංඛ්‍යා 1 සිට 99 දක්වා</target>
+            </trans-unit>
+      <!-- Languages -->
+            <trans-unit>
+                <source>Writing</source>
+                <target>ලිවීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Speaking</source>
+                <target>කථනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reading</source>
+                <target>කියවීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Poor</source>
+                <target>දුර්වල</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Basic</source>
+                <target>මුලික</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Good</source>
+                <target>දක්ෂ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Mother Tongue</source>
+                <target>මව් බස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Language</source>
+                <target>භාෂාව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fluency</source>
+                <target>ව්‍යක්තභාවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Competency</source>
+                <target>නිපුණත්වය</target>
+            </trans-unit>
+      <!-- License -->
+            <trans-unit>
+                <source>License Number</source>
+                <target>බලපත්‍ර අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>License Type</source>
+                <target>බලපත්‍ර ආකාරය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Issue Date</source>
+                <target>නිකුත් කළ දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Expiry Date</source>
+                <target>අවසාන දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Appointment date to public service</source>
+                <target>පත් වීම දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date assumed duty(public)</source>
+                <target>බාරගත් දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Current Service</source>
+                <target>වර්තමාන සේවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Appointment date to current service</source>
+                <target>පත් වීමේ දිනය වර්තමාන සේවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date assumed duty (current)</source>
+                <target>බාරගත් දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Method of recruitment to current service</source>
+                <target>වර්තමාන සේවයට බඳවාගත් ආකාරය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If other please specify</source>
+                <target>වෙනත් විස්තර  ඇත්නම් සදහන්  කරන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Medium</source>
+                <target>මාධ්‍යය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employement Type</source>
+                <target>සේවක වර්ගය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Work Station/Division</source>
+                <target>සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>HR active employee</source>
+                <target>මානව සම්පත් ක්‍රියාකාරී</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attendance active employee</source>
+                <target>පැමිණීම් ක්‍රියාකාරී</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Contributing to W &amp; OP Number</source>
+                <target>දායකත්වය ඩබ්ලිව් ඕ පී අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If yes W &amp; OP Number</source>
+                <target>ඔව් නම් පමනක් අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirmed</source>
+                <target>තහවුරු කළ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirmed Date</source>
+                <target>තහවුරු කළ දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Suspended date</source>
+                <target>අත්හිටුවන දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please specify the reason</source>
+                <target>හේතුව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Probation period extension information</source>
+                <target>පරිවාසය දිගුව තොරතුරු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>If Extended? (If relevent)</source>
+                <target>දිගුව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>From date</source>
+                <target>සිට</target>
+            </trans-unit>
+            <trans-unit>
+                <source>To date</source>
+                <target>දක්වා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Salary</source>
+                <target>වැටුප</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service</source>
+                <target>සේවය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Designation</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Class</source>
+                <target>පංතිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Grade(Segment)</source>
+                <target>ශ්‍රේණිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Salary scale</source>
+                <target>වැටුප් පරාසය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Basic salary(Annual)</source>
+                <target>මුලික වැටුප</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Increment Date</source>
+                <target>වැටුප් වැඩි වීම දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date assumed Duty  date should be greater than or Equal to the Appointment date to public service</source>
+                <target>වැඩ බාරගත් දිනය පත්වීම ගත් දිනයට වැඩ කලින් දින යක් හෝ එට සමාන විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Appointment date to current service should be greater than or Equal to the Date assumed date.</source>
+                <target>වැඩ බාරගත් දිනය පත්වීම ගත් දිනයට වැඩ කලින් දින යක් හෝ එට සමාන විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Appointment date to current service should be greater than or Equal to the Date assumed duty (public) date.</source>
+                <target>වැඩ බාරගත් දිනය පත්වීම ගත් දිනයට වැඩ කලින් දින යක් හෝ එට සමාන විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date assumed duty (current) date should be greater than to the Appointment date to current service date.</source>
+                <target>වර්තමාන සේවයේ වැඩ බාරගත් දිනය වර්තමාන සේවයේ පත්වීම් දිනයට වඩා වැඩි හෝ සමාන විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Confirmed Date should be greater than or equal to the Date assumed duty(current).</source>
+                <target>ස්ථිර කල දිනය වැඩ බාරගත් දිනය යට සමාන හෝ කලින් දිනයක්  විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Probation from date  should be greater than or equal to the Date assumed duty(current).</source>
+                <target>පරිවාස කාලය අවසන් වන දිනය පරිවාස කාලය ආරභක දිනයක්  විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Probation To date  should be greater than  to the Probation From Date.</source>
+                <target>පරිවාස කාලය ආරභක වන දිනය වැඩ බාරගත් දිනයට  කලින් දිනයක් විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Increment Date should be greater than to the Date assumed duty(current) Date</source>
+                <target>පඩි වැඩ කරන දිනය වැඩ බාරගත් දිනයට  කලින් දිනයක් විය යුතුය.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The period the probation was extended</source>
+                <target>පරිවාසය කාලය දීර්ග කිරීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Job</source>
+                <target>රැකියාව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report To</source>
+                <target>රපෝර්තුව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Supervisor / Subordinate already added to the employee with the same method</source>
+                <target>එකතු කළ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Supervisor / Subordinate</source>
+                <target>අධීක්ෂක / යටත් නිලධාරියා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reporting Method</source>
+                <target>වාර්තාකරන විධිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Supervisors</source>
+                <target>අධීක්ෂක</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Subordinates</source>
+                <target>යටත් නිලධාරියා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>i.e. Current Employee's Supervisors</source>
+                <target>අධීක්ෂක</target>
+            </trans-unit>
+            <trans-unit>
+                <source>i.e. Current Employee's Subordinates</source>
+                <target>යටත් නිලධාරියා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Id</source>
+                <target>සුචිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Reporting Method</source>
+                <target>වාර්තාකරන</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Direct</source>
+                <target>ඍජු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Indirect</source>
+                <target>ඍජු නොවූ</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Report-to</source>
+                <target>වාර්තා කර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The same employee cannot be assigned as the supervisor and the subordinate</source>
+                <target>අධීක්ෂක හා යටත් නිලධාරියා සදහා එකම සේවකයෙක් නම් කල නොහැක.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select the Supervisor / Subordinate</source>
+                <target>අස්ඩස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>The same employee cannot be assigned as the supervisor and the subordinate</source>
+                <target>අධීක්ෂක හා යටත් නිලධාරියා සදහා එකම සේවකයෙක් නම් කල නොහැක.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photograph</source>
+                <target>ඡායාරූපය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Select a Photo</source>
+                <target>ඡායාරූප තෝරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Click on the photo to see the full size image</source>
+                <target>පරිමාණය වැඩි කිරීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photograph Size 1 MB</source>
+                <target>ප්‍රමාණය 1 MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>3.5 cm * 1.5 cm</source>
+                <target>3.5 cm * 1.5 cm</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attachments</source>
+                <target>ඇමුණුම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attachment Type</source>
+                <target>ඇමුනුම වර්ගය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Show File</source>
+                <target>ගොනුව පෙනෙනවා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Assigned Attachments</source>
+                <target>පවරන ඇමුණුම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>File Name</source>
+                <target>ඇමුණුම නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>1M Max, any larger attachments will be ignored</source>
+                <target>1M අස්ඩස පමනයි</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Path</source>
+                <target>පෙත</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Size</source>
+                <target>ප්‍රමාණය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a file.</source>
+                <target>තෝරාගන්න ගොනුව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Grade</source>
+                <target>ශ්‍රේණිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Details</source>
+                <target>විභාග විස්තරය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Subject/Grade/Marks</source>
+                <target>විෂය/ශ්‍රේණිය/ලකුණු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Status</source>
+                <target>විභාග තත්වය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Subject/Grade/Marks</source>
+                <target>විෂය/ශ්‍රේණිය/ලකුණු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pass</source>
+                <target>සාමර්ථය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Fail</source>
+                <target>අසමත්වීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pending Result</source>
+                <target>විසදීමට තිබෙන</target>
+            </trans-unit>
+            <trans-unit>
+                <source>EB Exam</source>
+                <target>ඊ.බී විභාග</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Details</source>
+                <target>විභාග තොරතුරු</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Marks/Results</source>
+                <target>විභාග ප්‍රතිඑලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Exam Status</source>
+                <target>විභාග තත්වය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Date</source>
+                <target>දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Service Record</source>
+                <target>සේවා සටහන</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ministry/Department/Institute/Sub Office</source>
+                <target>අමාත්‍යංශය/දෙපාර්තමේන්තුව/ආයතනය/උප කාර්යාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Photograph size should be less than to 1 MB</source>
+                <target>අස්ඩස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Salary No can not be duplicated</source>
+                <target>වැටුප් අන්කය පෙර ඉස්තාපනය කර ඇත. නැවත යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pension No can not duplicated</source>
+                <target>විස්‍රාමික අන්කය පෙර ඉස්තාපනය කර ඇත. නැවත යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Appointment Letter No can not duplicated</source>
+                <target>පත්විම් ලියුම්  අන්කය පෙර ඉස්තාපනය කර ඇත. නැවත යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Attendence No can not be duplicated</source>
+                <target>පැමිනිමේ  අන්කය පෙර ඉස්තාපනය කර ඇත. නැවත යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please Enter Confirmation Date</source>
+                <target>අස්ඩස</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please Enter Probation Extend From Date</source>
+                <target>පරිවාසය කාලය ඇරඹෙන දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please Enter Probation Extend To date</source>
+                <target>පරිවාසය කාලය අවසාන දිනය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please Enter W &amp; OP Number</source>
+                <target>කරුණකර  විශ්‍රාම අනුදැනු පනත් අංකය ඇතුලත් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is a no photograph to delete</source>
+                <target>පින්තූරයක් යොදා නැත</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Ministry/Department</source>
+                <target>අමාත්‍යංශය/දෙපාර්තමේන්තුව</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Institute/Sub Office</source>
+                <target>ආයතනය/උප කාර්යාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address Line 1</source>
+                <target>ලිපිනය 1</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address Line 2</source>
+                <target>ලිපිනය 2</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Delivery Post Office</source>
+                <target>තැපැල් කාර්යාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address Postal Code</source>
+                <target>තැපැල් කේතය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Address Country</source>
+                <target>රට</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Divisional Secretariat</source>
+                <target>කොට්ඨාස ලේකම් කාර්යාලය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Nearest Police Station</source>
+                <target>පොලිස් ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum File Size is 1 MB</source>
+                <target>1 MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Add New Employee</source>
+                <target>සේවකයා එක් කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Employee Search</source>
+                <target>සේවකයා සොයා ගැනීම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>EB Requirments</source>
+                <target>කාර්යක්ෂමතා කඩඉම් පරික්ෂණ විභාග අවශ්‍යතා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>EB Exams</source>
+                <target>කාර්යක්ෂමතා කඩඉම් පරික්ෂණ විභාග</target>
+            </trans-unit>
+            <trans-unit>
+                <source>EBExam Name</source>
+                <target>කාර්යක්ෂමතා කඩඉම් පරික්ෂණ විභාග නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Due Date</source>
+                <target>නියමිත දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Completed Date</source>
+                <target>සමාප්ත දිනය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Status</source>
+                <target>තත්වය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Remarks</source>
+                <target>සටහන</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Pension No</source>
+                <target>විශ්‍රාමික අංකය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Month</source>
+                <target>මාසය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Year</source>
+                <target>වර්ශය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Name</source>
+                <target>පුහුනුව නම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Training Summary</source>
+                <target>පුහුනුව සාරාන්ශය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>For Whom</source>
+                <target>පුහුනුව කාහටද?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Effective From date should be less than to Effective to Date</source>
+                <target>කාර්ය ආරභක වන දිනය කාර්ය අවසාන දිනය ට වාඩා අඩු  දිනයක් යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Effective To date should be greater than to Effective to Date</source>
+                <target>කාර්ය අවසාන දිනය   කාර්ය ආරභක වන දිනය ට  වාඩා වැඩි දිනයක් යොදන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Are you sure you want to delete the photograph</source>
+                <target>ඔබට මකා දැමීමට අවශ්‍යද?</target>
+            </trans-unit>
+            <trans-unit>
+                <source>There is a no photograph to delete</source>
+                <target>පින්තූරයක් යොදා නැත</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a photograph</source>
+                <target>පින්තූරයක් තෝරන්න.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Disciplinary Summary</source>
+                <target>විනය පිලිබඳ සාරාංශය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Effective From</source>
+                <target>සිට</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Effective To</source>
+                <target>දක්වා</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Action</source>
+                <target>ක්‍රියාමාර්ගය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Work Station</source>
+                <target>සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Work Station</source>
+                <target>වැඩ බලන සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Payroll active employee</source>
+                <target>පඩිපත ක්‍රියාකාරී </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Level</source>
+                <target>තරාතිරම</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Designation</source>
+                <target>වැඩ බලන තනතුර</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Grade Slot</source>
+                <target>ශ්‍රේණි කාණ්ඩය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Maximum File Size is 2 MB</source>
+                <target>උපරිමය 2 MB</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Not allowed to delete currently logged, employee data .</source>
+                <target>පරිශීලක පද්ධතිය භාව්තයේ, එම තොරතුරු ඉවත්කල නොහැක</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>You can not add yourself as a supervisor/subordinates to you</source>
+                <target>තමාගේ නිරීක්ෂක/යටත් නිලධාරියා වීමට තමාට නොහැක.</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Please select a employee</source>
+                <target>කරුණාකර සේවකයෙක් තෝරන්න</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Wait..</source>
+                <target>රැදී සිටින්න..</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid fax number</source>
+                <target>ෆැක්ස් අංකය වැරදිය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Phone Extension</source>
+                <target>දුරකථන දිගුව වැරදිය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Invalid Mobile No</source>
+                <target>ජංගම් දුරකථන  අංකය වැරදිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Submit</source>
+                <target>යොමු කරන්න</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Your NIC No Like : </source>
+                <target>ඔබගේ ජා.හැ.අ </target>
+            </trans-unit>
+            <trans-unit>
+                <source>Invalid NIC</source>
+                <target>ජා.හැ.අ වැරදිය</target>
+            </trans-unit>
+            <trans-unit>
+                <source>Acting Workstations</source>
+                <target>සක්‍රීය සේවා ස්ථාන</target>
+            </trans-unit>            
+            <trans-unit>
+                <source>Acting Work Station </source>
+                <target>සක්‍රීය සේවා ස්ථානය </target>
+            </trans-unit>            
+            <trans-unit>
+                <source>Remove</source>
+                <target>ඉවත්කරන්න</target>
+            </trans-unit>            
+            <trans-unit>
+                <source>Acting Designation </source>
+                <target>සක්‍රීය සේවාව </target>
+            </trans-unit>            
+            <trans-unit>
+                <source>Workstations</source>
+                <target>සේවා ස්ථාන</target>
+            </trans-unit>            
+            <trans-unit id="116">
+                <source>Submit</source>
+                <target>එක් කරන්න</target>
+            </trans-unit>   
+            <trans-unit id="116">
+                <source>Province</source>
+                <target>පළාත</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>District</source>
+                <target>දිස්ත්‍රික්කය</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Division</source>
+                <target>සේවා ස්ථානය</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Zone</source>
+                <target>කලාපය</target>
+            </trans-unit>  
+            <trans-unit id="116">
+                <source>Wasam</source>
+                <target>වසම්</target>
+            </trans-unit>  
+            <trans-unit id="116">
+                <source>View</source>
+                <target>බැලීම</target>
+            </trans-unit>   
+            <trans-unit id="116">
+                <source>Add</source>
+                <target>එක් කරන්න</target>
+            </trans-unit>   
+            <trans-unit id="116">
+                <source>Temporary</source>
+                <target>තාවකාලික</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Retirement Date</source>
+                <target>විශ්‍රාම දිනය</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>Resign Date</source>
+                <target>ඉල්ලා අස්වීම දිනය</target>
+            </trans-unit>   
+            <trans-unit id="116">
+                <source>Appointment Date</source>
+                <target>පත්වීමේ දිනය</target>
+            </trans-unit> 
+            <trans-unit id="116">
+                <source>There is a only one Direct Supervisor for this Employee.</source>
+                <target>සේවකයෙකුට සිටිය යුතු වන්නේ එක සුජු ප්‍රදාන  නිලධාරියකු පමණි.</target>
+            </trans-unit>
+            <trans-unit id="116">
+                <source>Assumed Date</source>
+                <target>වැඩ භාර ගත් දිනය</target>
+            </trans-unit>  
+        </body>
+    </file>
+</xliff>

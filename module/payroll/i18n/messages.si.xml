@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+    <file source-language="EN" target-language="si" datatype="plaintext" original="messages" date="2009-12-08T13:58:35Z" product-name="messages">
+        <header/>
+        <body>
+            <trans-unit id="1">
+                <source>Employee Vote Information Summary</source>
+                <target>සේවක වැය විස්තරය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Vote Information</source>
+                <target>සේවක වැය විස්තරය</target>
+            </trans-unit>	     
+            <trans-unit id="1">
+                <source>Vote Code</source>
+                <target>වැය අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Vote Name</source>
+                <target>වැය නම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Vote Type</source>
+                <target>වැය වර්ගය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>This field is required</source>
+                <target>ඕනෑ කරනවා</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Payroll Information Summary</source>
+                <target>සේවක වැටුප තොරතුරු</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Employee Payroll Information</source>
+                <target>සේවක වැටුප තොරතුරු</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Grade(Segment)</source>
+                <target>ශ්‍රේණිය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Grade Slot</source>
+                <target>ශ්‍රේණි කාණ්ඩය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Pay salaries in cash</source>
+                <target>පඩිය මුදල් වලින්</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Next Increment on</source>
+                <target>මීලග පඩි වැඩි වීම </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EPF Number</source>
+                <target>සේවක අර්ථසාධක අරමුදල අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>ETF Number</source>
+                <target>සේවා නියුක්ති භාරකාර අරමුදල අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Type</source>
+                <target>වැටුප් වර්ගය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Salaray Vote</source>
+                <target>වැටුප් වැය අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>EPF Vote</source>
+                <target>සේවක අර්ථසාධක වැය අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>ETF Vote</source>
+                <target>සේවා නියුක්ති භාරකාර වැය අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Assign to default transactions</source>
+                <target>පොදු ගනුදෙනු අයිතියි</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>District</source>
+                <target>දිස්ත්‍රික්කය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Configuration</source>
+                <target>රූපණය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Employee Salary Increment Summary</source>
+                <target>සේවක පඩි වැඩිවීම සාරාංශය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Employee Number</source>
+                <target>සේවක සුචිය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Previous Salary</source>
+                <target>පෙර පඩිය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>New Salary</source>
+                <target>අලුත් පඩිය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Increment</source>
+                <target>පඩි වැඩිවීම</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Salary Incremet Process</source>
+                <target>පඩි වැඩිවීම ක්‍රියාවලිය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Add Employee</source>
+                <target>සේවකයා එක් කිරීම</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Confirm</source>
+                <target>තහවුරු</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Remove</source>
+                <target>ඉවත් කරන්න</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Bank Details Summary</source>
+                <target>බැංකු විස්තර සාරාංශය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Bank Code</source>
+                <target>බැංකු අංකය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Bank Name</source>
+                <target>බැංකු නම</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Bank Details</source>
+                <target>බැංකු විස්තර</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Bank Address</source>
+                <target>බැංකු ලිපිනය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Parent Bank</source>
+                <target>මව් බැංකුව</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Main Bank</source>
+                <target>ප්‍රධාන බැංකුව</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Branch Details Summary</source>
+                <target>බැංකු ශාඛා විස්තර සාරාංශය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Branch Code</source>
+                <target>බැංකු ශාඛා අංකය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Branch Name</source>
+                <target>බැංකු ශාඛා නම</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Branch Details</source>
+                <target>බැංකු ශාඛා විස්තර</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Branch Address</source>
+                <target>බැංකු ශාඛා ලිපිනය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Slip Transfer</source>
+                <target>ලියවිලි භාවිත කල හැක</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employee Bank Details</source>
+                <target>සේවක බැංකු විස්තර</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Account type</source>
+                <target>ගිණුම් වර්ගය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Start Date</source>
+                <target>ආරම්භක දිනය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>End Date</source>
+                <target>අවසාන දිනය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Account No</source>
+                <target>ගිණුම් අංකය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Amount</source>
+                <target>ප්‍රමාණය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Active</source>
+                <target>ක්‍රියාකාරී</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Account Order</source>
+                <target>ගිණුම් අනුපිළිවෙල</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Account Number</source>
+                <target>ගිණුම් අංකය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Order</source>
+                <target>අනුපිළිවෙල</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Account Type</source>
+                <target>ගිණුම් වර්ගය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Bank Diskette Summary</source>
+                <target>බැංකු තැටිය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Bank Diskette Name</source>
+                <target>බැංකු තැටිය නම</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Bank Diskette</source>
+                <target>බැංකු තැටිය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Data Source</source>
+                <target>දත්ත මූලය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Header</source>
+                <target>මුල</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Detail</source>
+                <target>මැද</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Footer</source>
+                <target>අග</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Bank Diskette Process Summary</source>
+                <target>බැංකු තැටිය සැකසීම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Payment Date</source>
+                <target>ගෙවන දිනය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Bank</source>
+                <target>බැංකුව</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Create Diskette</source>
+                <target>තැටිය නිර්මානය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Bank Diskette Process</source>
+                <target>බැංකු තැටිය සැකසීම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Work Station:</source>
+                <target>අංශය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Salary Vote</source>
+                <target>පඩිපත් වැය අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Period</source>
+                <target>කාලාන්තරය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Pending</source>
+                <target>වැටුප් තොරතුරු සම්පුර්ණ නැති</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Payroll Info Complete</source>
+                <target>වැටුප් තොරතුරු සම්පුර්ණ</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transaction Type Information Summary</source>
+                <target>ගනුදෙනු වර්ග </target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Transaction name</source>
+                <target>ගනුදෙනු නම</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Transaction Type Information (Detail View)</source>
+                <target>ගනුදෙනු තොරතුරු( විස්තරාත්මකව )</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Transaction Detail Information Summary</source>
+                <target>ගනුදෙනු විස්තර සාරාංශය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Transaction Name</source>
+                <target>ගනුදෙනු නම</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Detail Information</source>
+                <target>ගනුදෙනු විස්තරාත්මකව</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Transaction type</source>
+                <target>ගනුදෙනු වර්ග</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Narration</source>
+                <target>කථනය</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Order on pay slip</source>
+                <target>වැටුප් පත්‍රිකාවේ ස්ථානය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Enable Proration</source>
+                <target>ආනුපාතික වලංගුය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Enable </source>
+                <target>වලංගුය</target>
+            </trans-unit>         
+            <trans-unit id="1">
+                <source>Set as default transaction</source>
+                <target>ගනුදෙනුව සියල්ලටම අයත්වේ</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Specify the amount payment type and the billing rate for the transaction</source>
+                <target>ගනුදෙනුව අයත් විය යුත්තේ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Add amount to</source>
+                <target>අයත් විය යුත්තේ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Net pay</source>
+                <target>දළ වැටුපට</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Gross pay</source>
+                <target>ශුද්ධ වැටුපට</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Contribution</source>
+                <target>දායකත්වය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Specify the transaction base to be considered for the contribution (check all that apply)</source>
+                <target>දායකත්වය ප්‍රමාණාත්මකව</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employer %</source>
+                <target>සේව්‍ය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employee %</source>
+                <target>සේවක</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Enable base transaction</source>
+                <target>මූලික ගනුදෙනුවලට අයත්</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Base Txn</source>
+                <target>මූලික ගනුදෙනුවලට</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Transaction</source>
+                <target>ගනුදෙනුවලට</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Previous</source>
+                <target>පෙර</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Base</source>
+                <target>පදනම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Validate</source>
+                <target>වලංගු</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Processed</source>
+                <target>සැකසූ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Not Processed</source>
+                <target>සැකසූ නැති</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Locked</source>
+                <target>අගුළු දැමූ</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Employee Transaction Detail (By Transaction)</source>
+                <target>සේවකයා අනුව ගනුදෙනු</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Type</source>
+                <target>ගනුදෙනු වර්ග</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Transaction Detail</source>
+                <target>ගනුදෙනු විස්තරය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Add Employees</source>
+                <target>සේවකයන් එකතු කරන්න</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>View/Edit employees</source>
+                <target>සේවකයන් බැලීම/යාවත්කාලීන කිරීම</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Assign New employees</source>
+                <target>නව සේවකයන් එකතු කරන්න</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Search For Period</source>
+                <target>සෙවීම දින තුල</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Emp%</source>
+                <target>සේව්‍ය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Eyr%</source>
+                <target>සේවක</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Enabled</source>
+                <target>වලංගු</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Amount(%)</source>
+                <target>ප්‍රමාණය(%)</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Apply To All</source>
+                <target>සියල්ලන්ටම එක්කරන්න</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>From date</source>
+                <target>දින සිට</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>To date</source>
+                <target>දින දක්වා</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Salary Before Increment</source>
+                <target>පඩි වැඩිවීමට පෙර</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Salary After Increment</source>
+                <target>පඩි වැඩිවීමට පසු</target>
+            </trans-unit>      
+            <trans-unit id="1">
+                <source>Salary Increment Process</source>
+                <target>සේවක වැටුප් වැඩිවීම සැකසුම</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Next Increment Date</source>
+                <target>මීලග වැටුප් වැඩිවීම</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Salary Increment Cancel</source>
+                <target>සේවක වැටුප් වැඩිවීම අවලංගු කිරීම</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Increment Cancel</source>
+                <target>වැටුප් වැඩිවීම අවලංගු කිරීම</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Increment Cancel Comment</source>
+                <target>සේවක වැටුප් වැඩිවීම අවලංගු කිරීම විස්තරය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Employee Salary Increment Cancel Summary</source>
+                <target>සේවක වැටුප් වැඩිවීම අවලංගු කිරීම  සාරාංශය</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Employee Payroll Process</source>
+                <target>වැටුප සැකසුම</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Current Process Period</source>
+                <target>සැකසුම් කාලපරාසය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Start Date</source>
+                <target>ආරම්භක දිනය</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>End Date</source>
+                <target>අවසාන දිනය</target>
+            </trans-unit>    
+            <trans-unit id="1">
+                <source>Process</source>
+                <target>සැකසීම</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Processed Employees</source>
+                <target>සැකසූ සේවකයන්</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>View Processed Details</source>
+                <target>සැකසුම බැලීම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>View Processed Employees</source>
+                <target>වැටුප සැකසූ සේවකයන්</target>
+            </trans-unit>   
+            <trans-unit id="1">
+                <source>Employee Id</source>
+                <target>සේවක අංකය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Employee Name</source>
+                <target>සේවක නම</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Date &amp; Time</source>
+                <target>දිනය සහ වේලාව</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Status</source>
+                <target>තත්වය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Pay Slip</source>
+                <target>වැටුප</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Total no of Processed Employee/s : </source>
+                <target>මුලු වැටුප සැකසූ සේවකයන් : </target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Attendance No</source>
+                <target>පැමිනීමේ අංකය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Designation</source>
+                <target>තනතුර</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pay schdule</source>
+                <target>ගෙවීම් පරාසය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Basic Salary</source>
+                <target>මූලික වැටුප</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Earnings</source>
+                <target>ආදායම්</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Deductions</source>
+                <target>අඩු කිරීම්</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Contributions</source>
+                <target>දායකත්වය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Gross Salary</source>
+                <target>දළ වැටුප</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Cash Paid Amount</source>
+                <target>අත්පිට ගෙවු මුදල</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Pay in Bank</source>
+                <target>බැංකුවට ගෙවූ මුදල</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Net Salary</source>
+                <target>ශුද්ධ වැටුප</target>
+            </trans-unit> 
+            <trans-unit id="1">
+                <source>Loan :</source>
+                <target>ණය :</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source> AppLication Id : </source>
+                <target>ඉල්ලුම් පත්‍ර අංකය</target>
+            </trans-unit>  
+            <trans-unit id="1">
+                <source>Employee Contribution</source>
+                <target>සේවක දායකත්වය</target>
+            </trans-unit>
+            <trans-unit id="1">
+                <source>Employer Contribution</source>
+                <target>සේව්‍ය දායකත්වය</target>
+            </trans-unit>     
+            <trans-unit id="1">
+                <source>Select All</source>
+                <target>සියල්ලම</target>
+            </trans-unit>            
+        </body>
+    </file>
+</xliff> 
